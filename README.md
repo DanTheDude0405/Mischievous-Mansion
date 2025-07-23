@@ -28,8 +28,8 @@ Check out [Mischievous Mansion Remastered](https://www.planetminecraft.com/proje
 
 ## Credits
 
-Map by DanTheDude
+Map by **DanTheDude**
 
 Music by Nintendo (All rights reserved)
 
-Mountain Terrain by [OneCore](https://www.planetminecraft.com/project/the-shattered-peaks-7-3-2021-practice-map/)
+Mountain Terrain by **[OneCore](https://www.planetminecraft.com/project/the-shattered-peaks-7-3-2021-practice-map/)**

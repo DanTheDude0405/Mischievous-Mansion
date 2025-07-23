@@ -24,7 +24,7 @@ Reload the built-in **Resource Pack** with **F3+T**.
 
 If on a server, apply the **Resource Pack** manually.
 
-Check out [Mischievous Mansion Remastered](https://www.planetminecraft.com/project/mischievous-mansion-remastered/), a **New & Improved** version.
+Check out **[Mischievous Mansion Remastered](https://www.planetminecraft.com/project/mischievous-mansion-remastered/)**, a **New & Improved** version.
 
 ## Credits
 

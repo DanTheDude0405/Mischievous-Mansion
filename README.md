@@ -1,3 +1,5 @@
+<img width="2048" height="2048" alt="MM-Logo-01" src="https://github.com/user-attachments/assets/62721612-fc81-43f4-ab15-16b24e500ec5" />
+
 # Mischievous Mansion
 
 ## Overview

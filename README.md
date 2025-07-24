@@ -1,4 +1,4 @@
-<img width="2048" height="2048" alt="MM-Logo-01" src="https://github.com/user-attachments/assets/62721612-fc81-43f4-ab15-16b24e500ec5" />
+<img width="2048" height="643" alt="Mischievous-Mansion" src="https://github.com/user-attachments/assets/4d547453-7739-48c6-9275-6b0fb29f65cb" />
 
 # Mischievous Mansion
 

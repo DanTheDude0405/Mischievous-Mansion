@@ -34,6 +34,6 @@ An official **[Puzzle Walkthrough](https://youtu.be/_PzXxtfSLM0﻿)** has been m
 
 Map by **DanTheDude**
 
-Music by Nintendo (All rights reserved)
+Music by **Nintendo** (All rights reserved)
 
 Mountain Terrain by **[OneCore](https://www.planetminecraft.com/project/the-shattered-peaks-7-3-2021-practice-map/)**

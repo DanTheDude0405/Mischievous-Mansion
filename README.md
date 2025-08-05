@@ -26,6 +26,10 @@ If on a server, apply the **Resource Pack** manually.
 
 This map has been officially discontinued and will no longer be supported. Check out **[Mischievous Mansion Remastered](https://www.planetminecraft.com/project/mischievous-mansion-remastered/)** for further updates.
 
+## Puzzle Walkthrough
+
+Click **[here](https://youtu.be/_PzXxtfSLM0﻿)** to watch the official **Puzzle Walkthrough**.
+
 ## Credits
 
 Map by **DanTheDude**

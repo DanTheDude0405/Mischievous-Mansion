@@ -28,7 +28,7 @@ This map has been officially discontinued and will no longer be supported. Check
 
 ## Puzzle Walkthrough
 
-Click **[here](https://youtu.be/_PzXxtfSLM0﻿)** to watch the official **Puzzle Walkthrough**.
+An official **[Puzzle Walkthrough](https://youtu.be/_PzXxtfSLM0﻿)** has been made for this map.
 
 ## Credits
 

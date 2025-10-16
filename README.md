@@ -10,9 +10,9 @@ It’s hunt or be hunted in this **Mischievous Mansion**!
 
 ## Settings
 
-Minecraft Version: **1.20.1**
+Minecraft Version: **1.21.10**
 
-Render Distance: **8+**
+Render Distance: **8+ Chunks**
 
 Minecraft Music: **OFF**
 
@@ -20,19 +20,25 @@ Minecraft Music: **OFF**
 
 This map is built for the **English** language.
 
+Adjust **Map Music** under **Options > Music & Sounds**.
+
 Reload the built-in **Resource Pack** with **F3+T**.
 
 If on a server, apply the **Resource Pack** manually.
 
-This map has been officially discontinued and will no longer be supported. Check out **[Mischievous Mansion Remastered](https://www.planetminecraft.com/project/mischievous-mansion-remastered/)** for further updates.
+Type /trigger **hardcore** for a greater challenge.
 
 ## Puzzle Walkthrough
 
-An official **[Puzzle Walkthrough](https://youtu.be/_PzXxtfSLM0﻿)** has been made for this map.
+An official **[Puzzle Walkthrough](https://youtu.be/_PzXxtfSLM﻿)** has been made for this map.
 
 ## Credits
 
 Map by **DanTheDude**
+
+Playtested by **WhiteNinja25121**
+
+Flashlight by **Thevayl**
 
 Music by **Nintendo** (All rights reserved)
 
